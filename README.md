@@ -1,2 +1,2 @@
 # Terraform_aws_alb
-<B> Hello </B>
+terraform apply -auto-approve -var "region=us-east-2"
